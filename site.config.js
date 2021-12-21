@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '刑事知识库',
   domain: 'https://sepia-hyacinth-69a.notion.site/4773299fd8fc43fab3033198391dda93',
-  author: '陈展姿',
+  author: '陈展姿律师',
 
   // open graph metadata (optional)
   description: 'Example site description',
